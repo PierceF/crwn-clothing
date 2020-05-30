@@ -11,3 +11,8 @@ a {
 * {
   box-sizing: border-box;
 }
+/*👆 select all elements and remove the
+browser's default box sizing set on all elements
+It affects the size of our components so this is how
+we remove them
+*/
